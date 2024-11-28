@@ -31,3 +31,5 @@ google-services.json
 
 # Android Profiling
 *.hprof
+NetworkConnect/Application/src/main/java/com/example/android/.DS_Store
+NetworkConnect/.DS_Store
